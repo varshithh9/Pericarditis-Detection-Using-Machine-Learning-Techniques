@@ -83,7 +83,7 @@ source venv/bin/activate     # macOS/Linux
 
 ### Install dependencies
 ```bash
-pip install -r [requirements.txt]
+pip install -r requirements.txt
 ```
 
 ## Run the Project
@@ -104,7 +104,7 @@ This will:
 - pericarditis_detection_model.pkl  
 - feature_scaler.pkl  
 - model_configuration.json  
-- All generated graphs (PNG files)
+- All generated graphs
 
 ## Key Features Learned by the Model
 
