@@ -116,12 +116,12 @@ This will:
 
 ## Model Output Visualizations
 
-### Confusion Matrix, ROC Curve, and Feature Importance <a href="https://drive.google.com/file/d/1cvBR6bKUHIUbU32_tnS0Zy5g3uPjalqD/view?usp=drivesdk" target="_blank">[here]</a>
+### Confusion Matrix, ROC Curve, and Feature Importance <a href="https://drive.google.com/file/d/1cvBR6bKUHIUbU32_tnS0Zy5g3uPjalqD/view?usp=drivesdk" target="_blank"> here</a>
 
 
-### Feature Distribution (Histograms) [here](https://drive.google.com/file/d/1OkUj91n0P-NM-wZRYS5b4fkeKWNlJaQk/view?usp=drivesdk)
+### Feature Distribution (Histograms) <a href="https://drive.google.com/file/d/1OkUj91n0P-NM-wZRYS5b4fkeKWNlJaQk/view?usp=drivesdk"> here</a>
 
-### Correlation Heatmap [here](https://drive.google.com/file/d/1w8ojwXF9teBxMj1LvIH-wFGdJ94e6FQh/view?usp=drivesdk)
+### Correlation Heatmap <a href="https://drive.google.com/file/d/1w8ojwXF9teBxMj1LvIH-wFGdJ94e6FQh/view?usp=drivesdk"> here</a>
 
 ## Future Improvements
 
