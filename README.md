@@ -83,7 +83,7 @@ source venv/bin/activate     # macOS/Linux
 
 ### Install dependencies
 ```bash
-pip install -r requirements.txt
+pip install -r [requirements.txt](https://github.com/varshithh9/Pericarditis-Detection-Using-Machine-Learning-Techniques/blob/main/requirements.txt)
 ```
 
 ## Run the Project
@@ -116,20 +116,17 @@ This will:
 
 ## Model Output Visualizations
 
-### Confusion Matrix
-![Confusion Matrix](images/confusion_matrix.png)
-
-### ROC Curve
-![ROC Curve](images/roc_curve.png)
-
-### Feature Importance
-![Feature Importance](images/feature_importance.png)
+### Confusion Matrix  ROC Curve  Feature Importance 
+![Confusion Matrix] ![ROC Curve](<img width="1498" height="827" alt="Confusion matrix and roc curve" src="https://github.com/user-attachments/assets/2d1973cf-130a-45d1-a421-b59f5f3ef9a9" />
+)
 
 ### Feature Distribution (Histograms)
-![Feature Distribution](images/feature_distribution.png)
+![Feature Distribution](<img width="1705" height="815" alt="feature distribution" src="https://github.com/user-attachments/assets/4db9adbc-2f28-4d36-ba64-651d69d8af91" />
+)
 
 ### Correlation Heatmap
-![Correlation Matrix](images/correlation_matrix.png)
+![Correlation Matrix](<img width="927" height="792" alt="feature correlation matrix" src="https://github.com/user-attachments/assets/7c0ea04c-eaf8-40e5-941c-f3bc4318b842" />
+)
 
 ## Future Improvements
 
