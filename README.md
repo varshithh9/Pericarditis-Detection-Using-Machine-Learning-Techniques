@@ -70,7 +70,7 @@ The system outputs:
 
 ### Clone the repository
 ```bash
-git clone https://github.com/your-username/pericarditis-detection.git
+git clone https://github.com/varshithh9/pericarditis-detection.git
 cd pericarditis-detection
 ```
 
