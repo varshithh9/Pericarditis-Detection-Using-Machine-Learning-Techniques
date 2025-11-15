@@ -117,7 +117,7 @@ This will:
 ## Model Output Visualizations
 
 ### Confusion Matrix, ROC Curve and Feature Importance 
-![Confusion Matrix](https://drive.google.com/file/d/1cvBR6bKUHIUbU32_tnS0Zy5g3uPjalqD/view?usp=drivesdk)
+[Confusion Matrix](https://drive.google.com/file/d/1cvBR6bKUHIUbU32_tnS0Zy5g3uPjalqD/view?usp=drivesdk)
 
 ### Feature Distribution (Histograms)
 ![Feature Distribution](https://drive.google.com/file/d/1OkUj91n0P-NM-wZRYS5b4fkeKWNlJaQk/view?usp=drivesdk)
